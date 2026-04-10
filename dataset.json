@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant intelligence dataset for Bloomington, Minnesota. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Bloomington, Minnesota, US",
+  "export_job_id": "3cf0d404-a139-4720-8e49-6b490f8df274",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 129568,
+  "location_name": "Bloomington",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-bloomington-minnesota-us-sample-129568",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/129568/beamstation_129568_restaurants-us-mn_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 22,
+  "sample_sha256": "8a5ff9686a0132aebd65f100af985fab8e6506195bbbd83d403dc74c6d859549",
+  "sample_size_bytes": 114678,
+  "total_records": 220,
+  "updated_at": "2026-03-31T15:19:34.801852+00:00"
+}
