@@ -1,12 +1,12 @@
 {
-  "export_job_id": "604e7990-0098-4775-b1b3-6e0483b99710",
+  "export_job_id": "b81f0f9e-6f1a-4610-82a9-b13d5b46f5a9",
   "id_short": 129568,
-  "published_at": "2026-04-17T07:35:36Z",
+  "published_at": "2026-04-21T19:04:06Z",
   "repo_name": "all-restaurants-in-bloomington-minnesota-us-sample-129568",
   "sample_asset_name": "beamstation_129568_restaurants-us-mn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/129568/beamstation_129568_restaurants-us-mn_SAMPLE_DIST.csv",
-  "sample_records": 24,
-  "sample_sha256": "b19cf91fbf4a39d73ba4a541885d89d9712ae9ef10872431d47007c4ab874ec7",
-  "sample_size_bytes": 111230,
-  "total_records": 240
+  "sample_records": 9,
+  "sample_sha256": "d0cafed2163241e7de003f9df0930f2201b367b80fec8b266421d66c50664241",
+  "sample_size_bytes": 47715,
+  "total_records": 95
 }
