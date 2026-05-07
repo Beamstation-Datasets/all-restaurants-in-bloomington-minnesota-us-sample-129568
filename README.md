@@ -1,6 +1,6 @@
 # All Restaurants in Bloomington, Minnesota, US
 
-> Free BeamStation sample export with 23 rows and masked direct-contact fields.
+> Free BeamStation sample export with 25 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `129568` |
 | Location | Bloomington |
 | Category | Restaurants |
-| Full dataset size | 234 records |
-| Free sample size | 23 records (9.83%) |
-| Last export | 2026-04-28T18:33:31.539320+00:00 |
+| Full dataset size | 252 records |
+| Free sample size | 25 records (9.92%) |
+| Last export | 2026-05-07T03:33:03.236459+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-bloomington-minnesota-us-sample-129568/releases/download/sample-latest/beamstation_129568_restaurants-us-mn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
